@@ -20,5 +20,6 @@ document.getElementById("myForm").addEventListener("submit", function(event) {
         message: message
     };
 
-    console.log(formData); // For demonstration, log the form data to the console
+    console.log(formData); 
 });
+
